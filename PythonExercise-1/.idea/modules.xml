@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonExercise-1.iml" filepath="$PROJECT_DIR$/.idea/PythonExercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonExercise-2/.idea/PythonExercise-2.iml" filepath="$PROJECT_DIR$/../PythonExercise-2/.idea/PythonExercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonExercise-3/.idea/PythonExercise-3.iml" filepath="$PROJECT_DIR$/../PythonExercise-3/.idea/PythonExercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonExercise-4/.idea/PythonExercise-4.iml" filepath="$PROJECT_DIR$/../PythonExercise-4/.idea/PythonExercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonExercise-5/.idea/PythonExercise-5.iml" filepath="$PROJECT_DIR$/../PythonExercise-5/.idea/PythonExercise-5.iml" />
+    </modules>
+  </component>
+</project>
